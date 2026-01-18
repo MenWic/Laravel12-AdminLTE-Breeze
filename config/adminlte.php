@@ -355,7 +355,7 @@ return [
                             'url' => '#',
                         ],
                         [
-                            'text' => '2.2 level_two',
+                            'text' => '2.2. level_two',
                             'url' => '#',
                             'submenu' => [
                                 [
@@ -371,7 +371,7 @@ return [
                     ],
                 ],
                 [
-                    'text' => '2. level_one',
+                    'text' => '3. level_one',
                     'url' => '#',
                 ],
             ],
