@@ -343,27 +343,27 @@ return [
             'icon' => 'fas fa-fw fa-share',
             'submenu' => [
                 [
-                    'text' => 'level_one',
+                    'text' => '1. level_one',
                     'url' => '#',
                 ],
                 [
-                    'text' => 'level_one',
+                    'text' => '2. level_one',
                     'url' => '#',
                     'submenu' => [
                         [
-                            'text' => 'level_two',
+                            'text' => '2.1. level_two',
                             'url' => '#',
                         ],
                         [
-                            'text' => 'level_two',
+                            'text' => '2.2 level_two',
                             'url' => '#',
                             'submenu' => [
                                 [
-                                    'text' => 'level_three',
+                                    'text' => '2.2.1. level_three',
                                     'url' => '#',
                                 ],
                                 [
-                                    'text' => 'level_three',
+                                    'text' => '2.2.2. level_three',
                                     'url' => '#',
                                 ],
                             ],
@@ -371,7 +371,7 @@ return [
                     ],
                 ],
                 [
-                    'text' => 'level_one',
+                    'text' => '2. level_one',
                     'url' => '#',
                 ],
             ],
